@@ -40,8 +40,8 @@
    9. cloudinary and etc..
 
 
-## Website Link :
-- https://airbnb-project-jack.onrender.com/listings
+
+
 
 ## Ex- Image
 **Home Page**
