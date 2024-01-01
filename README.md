@@ -38,12 +38,7 @@
    7. cookies
    8. doenv
    9. cloudinary and etc..
-## Author :
-   Akash Deep
-   <br>
-   Email: ad3500476@gmail.com
-   <br>
-   LinkedIn : https://www.linkedin.com/in/akashdeep023/
+
 
 ## Website Link :
 - https://airbnb-project-jack.onrender.com/listings
